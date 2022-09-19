@@ -1,4 +1,5 @@
 add_subdirectory(array)
 add_subdirectory(deque)
 add_subdirectory(dynamic_array)
+add_subdirectory(queue)
 add_subdirectory(stack)
