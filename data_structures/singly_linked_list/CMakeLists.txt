@@ -1,0 +1,7 @@
+include_directories(${CMAKE_SOURCE_DIR}/utilities)
+
+add_executable(singly_linked_list_unittest singly_linked_list_unittest.cc)
+target_link_libraries(singly_linked_list_unittest GTest::gtest_main)
+
+include(GoogleTest)
+gtest_discover_tests(singly_linked_list_unittest)
