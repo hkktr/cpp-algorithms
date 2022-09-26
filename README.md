@@ -8,6 +8,7 @@ _☝ Note that this project is meant to be used for learning and researching pur
 
 - **Arrays**
   - [Array](data_structures/array)
+  - [Dynamic array](data_structures/dynamic_array)
 
 ## Algorithms
 
