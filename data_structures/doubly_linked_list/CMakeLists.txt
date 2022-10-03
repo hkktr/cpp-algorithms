@@ -1,0 +1,7 @@
+include_directories(${CMAKE_SOURCE_DIR}/utilities)
+
+add_executable(doubly_linked_list_unittest doubly_linked_list_unittest.cc)
+target_link_libraries(doubly_linked_list_unittest GTest::gtest_main)
+
+include(GoogleTest)
+gtest_discover_tests(doubly_linked_list_unittest)
