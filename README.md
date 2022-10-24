@@ -10,6 +10,8 @@ _☝ Note that this project is meant to be used for learning and researching pur
   - [Array](data_structures/array)
   - [Dynamic array](data_structures/dynamic_array)
   - [Deque](data_structures/deque)
+- **Lists**
+  - [Singly linked list](data_structures/singly_linked_list)
 - **Abstract**
   - [Stack](data_structures/stack) _(based on [dynamic array](data_structures/dynamic_array))_
   - [Queue](data_structures/queue) _(based on [deque](data_structures/deque))_
