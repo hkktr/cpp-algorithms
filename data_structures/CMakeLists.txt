@@ -1,4 +1,5 @@
 add_subdirectory(array)
+add_subdirectory(binary_heap)
 add_subdirectory(deque)
 add_subdirectory(doubly_linked_list)
 add_subdirectory(dynamic_array)
