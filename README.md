@@ -21,6 +21,7 @@ _☝ Note that this project is meant to be used for learning and researching pur
 - **Abstract**
   - [Stack](data_structures/stack) _(based on [dynamic array](data_structures/dynamic_array))_
   - [Queue](data_structures/queue) _(based on [deque](data_structures/deque))_
+  - [Priority queue](data_structures/priority_queue) _(based on [binary heap](data_structures/binary_heap))_
 
 ## Algorithms
 
