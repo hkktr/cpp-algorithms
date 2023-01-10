@@ -13,6 +13,8 @@ _☝ Note that this project is meant to be used for learning and researching pur
 - **Lists**
   - [Singly linked list](data_structures/singly_linked_list)
   - [Doubly linked list](data_structures/doubly_linked_list)
+- **Hash-based**
+  - [Hash table](data_structures/hash_table)
 - **Abstract**
   - [Stack](data_structures/stack) _(based on [dynamic array](data_structures/dynamic_array))_
   - [Queue](data_structures/queue) _(based on [deque](data_structures/deque))_
